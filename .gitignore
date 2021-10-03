@@ -58,3 +58,9 @@ typings/
 .env
 
 .idea
+
+.idea/
+
+/.idea/
+
+/**/.idea/*
